@@ -3,8 +3,8 @@
 This is a custom enchants plugin designed to be different from other mainstream CE plugins. If you look below, I have a list of enchants I intend to add.
 
 ## Planned Enchants
-| Name  | Type | Max Level | Description |
-| ------------- | ------------- | ------------- | ------------- |
+| Name  | Type | Rarity | Max Level | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
  
 ## TODO List
 - [ ] 5 Functional Enchants
