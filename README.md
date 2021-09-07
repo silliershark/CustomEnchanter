@@ -23,4 +23,4 @@ This is a custom enchants plugin designed to be different from other mainstream 
 - [ ] 50 Functional Enchants
 - [ ] 100 Functional Enchants
 
-STATUS: **NOT FOR PRODUCTION USE (SKELTON PLUGIN)**
+STATUS: **NOT FOR PRODUCTION USE (SKELETON PLUGIN)**
