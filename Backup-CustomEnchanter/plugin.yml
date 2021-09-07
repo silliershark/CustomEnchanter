@@ -1,0 +1,6 @@
+name: CustomEnchanter
+main: Vqnic\CustomEnchanter\Main
+api: [3.0.0]
+version: 0.0.1
+author: Vqnic
+description: Custom Enchants go brrrr-
