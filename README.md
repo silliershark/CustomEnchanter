@@ -2,7 +2,7 @@
 
 This is a custom enchants plugin designed to be different from other mainstream CE plugins. If you look below, I have a list of enchants I intend to add.
 
-## List Of Enchants
+# List Of Enchantments
 | Name  | Type | Rarity | Max Level | Description | Functional |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Shatter | Weapon | Rubbish | 4 | Does damage to specific armor pieces of your opponent. For instance, level one only does damage to the helmet. Level two does damage to the helmet and boots. Level three does damage to the helmet, boots and leggings, while level four does damage to all of them. | NOT IMPLEMENTED |
