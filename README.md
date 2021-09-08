@@ -1,4 +1,5 @@
-# CustomEnchanter 
+![New Piskel (37)](https://user-images.githubusercontent.com/77890259/132428945-5f1c0c64-4f68-4fb6-8efc-00f32683d854.png)
+
 [![Poggit-CI](https://poggit.pmmp.io/ci.badge/Vqnic/CustomEnchanter/CustomEnchanter/master)](https://poggit.pmmp.io/ci/Vqnic/CustomEnchanter)
 
 This is a custom enchants plugin designed to be different from other mainstream CE plugins. If you look below, I have a list of enchants I intend to add.
