@@ -1,6 +1,8 @@
 # CustomEnchanter
+[![Poggit-CI](https://poggit.pmmp.io/ci.badge/Vqnic/CustomEnchanter/CustomEnchanter/master)](https://poggit.pmmp.io/ci/Vqnic/CustomEnchanter)
 
 This is a custom enchants plugin designed to be different from other mainstream CE plugins. If you look below, I have a list of enchants I intend to add.
+
 
 # List Of Enchantments
 | Name  | Type | Rarity | Max Level | Description | Functional |
