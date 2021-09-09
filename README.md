@@ -28,5 +28,12 @@ This is a custom enchants plugin designed to be different from other mainstream 
 - [ ] 25 Functional Enchants
 - [ ] 50 Functional Enchants
 - [ ] 100 Functional Enchants
+- [ ] 150 Functional Enchants
+- [ ] Enchant UI
+- [ ] Magician NPC
+- [ ] Mana Currency to Exchange for Custom Enchants
+- [ ] Economy Plugins Support
+- [ ] Configurable Elements To Make It More Unique Between Servers
+- [ ] Custom Enchant Rarity Levels
 
 STATUS: **NOT FOR PRODUCTION USE (SKELETON PLUGIN)**
