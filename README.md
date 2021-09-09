@@ -6,19 +6,22 @@ This is a custom enchants plugin designed to be different from other mainstream 
 
 
 # List Of Enchantments
-| Name  | Type | Rarity | Max Level | Description | Functional |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Shatter | Weapon | Rubbish | 4 | Does damage to specific armor pieces of your opponent. For instance, level one only does damage to the helmet. Level two does damage to the helmet and boots. Level three does damage to the helmet, boots and leggings, while level four does damage to all of them. | NOT IMPLEMENTED |
-| Viper | Weapon | Common | 5 | Poisons the opponent for 4 + the level of the enchant seconds. This has a 2% chance of activating. | NOT IMPLEMENTED |
-| Teeth | Weapon | Common | 1 | Summons evoker fangs nearby to deal damage to your opponents. | NOT IMPLEMENTED |
-| Bleeding | Weapon | Rare | 2 | Does a heart of damage every second, unless the player has a bandage to stop the effect.  Level one lasts for four seconds, and level two lasts for eight. 1% chance of actvating. | NOT IMPLEMENTED |
-| Bone Breaker | Weapon | Rare | 3 | Does an additional two hearts, in addition to creating blood particles and freezing the player for an amount of time equivalent to the level of the enchant plus two seconds. 2% chance of activating. | NOT IMPLEMENTED |
-| Crawler | Weapon | Mythical | 2 | Summons a spider to fight for you. This spider, when killed, spawns two times the enchant level of spiderlings in its place. If not killed, the spider will live for ten seconds. | NOT IMPLEMENTED |
-| Carnage | Weapon | Mythical | 3 | Knocks back nearby players in a radius of the level times two and deals 1.5 hearts of damage. | NOT IMPLEMENTED |
-| Bloodmoon | Weapon | Mythical | 3 | Has a percent chance equal to two times the enchant level to do 1.25X the default damage, but only at night. | NOT IMPLEMENTED |
-| Plague | Weapon | Arcane | 3 |  Summons a giant skull that gives lethal poison and heavy damage to nearby enemies, and despawns after some seconds. For each level, the skull lasts longer by two seconds. The skull, by the default level, lives for four seconds. 2% chance of activating.| PARTIALLY IMPLEMENTED |
-| Bloodbender | Weapon | Arcane | 2 | Summons two blood demons to fight for you. The level of the enchant is the amount of base damage they do. | NOT IMPLEMENTED |
- 
+| Name  | Type | Rarity | Max Level | Description | Chance | Functional |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Shatter | Weapon | Rubbish | 4 | Damages durability of certain pieces of the opponent's armor. Level one does only the helmet, level two the helmet and boots, level three the helmet, boots and leggings, and level four damages all pieces. | 2% | NOT IMPLEMENTED |
+| Slasher | Weapon | Rubbish | 2 | Knocks back all opponents withi a certain area. By default the area is a 3x3, but level two does a 6x6. | 2% | NOT IMPLEMENTED |
+| Vile | Weapon | Rubbish | 3 | Gives your opponent nausea for an amount of seconds equal to three times the level of the enchant. | 3% | NOT IMPLEMENTED |
+| Husk | Weapon | Rubbish | 5 | Depletes your opponent's hunger points by the level of the enchant For instance, level five removes 2.5 hunger bars.| 3% | NOT IMPLEMENTED |
+| Viper | Weapon | Rubbish | 2 | Poisons your opponent for an amount of seconds equal to five times the level. | 2% | NOT IMPLEMENTED |
+| Quills | Armor | Rubbish | 1 | "Sticks" your opponent when they hit you dealing an extra heart of damage. | 3% | NOT IMPLEMENTED |
+| Unsettle | Armor | Rubbish | 3 | Nauseates your opponent when they hit you. | 4% | NOT IMPLEMENTED |
+| Stun | Armor | Rubbish | 1 | Freezes your opponent when they hit you for two seconds. | 2% | NOT IMPLEMENTED |
+| Sizzle | Armor | Rubbish | 2 | Ignites your opponent when they hit you for an amount of seconds equal to four times the level. | 3% | NOT IMPLEMENTED |
+| Adrenaline | Armor | Rubbish | 5 | Splits the damage dealt to you in half. | Equal to the level. | NOT IMPLEMENTED |
+| FuelFinder | Tool | Rubbish | 3 | Chance to drop some extra pieces of coal. Effected by the level of Fortune on the player's pickaxe.. | Equal to level | NOT IMPLEMENTED |
+| BlueBlood | Tool | Rubbish | 3 | Chance to drop some extra pieces of lapis lazuli. Effected by the level of Fortune on the player's pickaxe.. | Equal to level | NOT IMPLEMENTED |
+
+
 ## TODO List
 - [ ] 5 Functional Enchants
 - [ ] 10 Functional Enchants
