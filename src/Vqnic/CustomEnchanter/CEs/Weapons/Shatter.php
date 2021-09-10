@@ -39,7 +39,7 @@ class Shatter extends WeaponCE{
         if(mt_rand(1, 100) <= 2){ // 2% chance
             $armor = $this->$victim->getArmorInventory();
             $all = [$armor->getHelmet(), $armor->getChestplate(), $armor->getLeggings(), $armor->getBoots()];
-            switch($this->CELevel){
+            switch($this->CElevel){
                 case 1:
                      if($all[0] instanceof Armor){
                          $all[0]->applyDamage(4);
