@@ -2,7 +2,8 @@
 
 [![Poggit-CI](https://poggit.pmmp.io/ci.badge/Vqnic/CustomEnchanter/CustomEnchanter/master)](https://poggit.pmmp.io/ci/Vqnic/CustomEnchanter)
 
-This is a custom enchants plugin designed to be different from other mainstream CE plugins. If you look below, I have a list of enchants I intend to add.
+DEVELOPER'S NOTE: **I can tell you right now this plugin hasn't been tested. I haven't even checked to see if it loads without crashing yet. Half of this was done without an IDE, like, at all. So far, this is a "skeleton plugin" which is strictly NOT for production use. None of the CEs are obtainable, and none work. Do not use this--yet.**
+
 
 
 # List Of Enchantments
@@ -36,4 +37,3 @@ This is a custom enchants plugin designed to be different from other mainstream 
 - [ ] **Configurable** Elements To Make It More Unique Between Servers
 - [ ] Custom Enchant Rarities Ranging From **Rubbish** To **Arcane**
 
-STATUS: **NOT FOR PRODUCTION USE (SKELETON PLUGIN)**
