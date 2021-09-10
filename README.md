@@ -8,7 +8,7 @@ This is a custom enchants plugin designed to be different from other mainstream 
 # List Of Enchantments
 | Name  | Type | Rarity | Max Level | Description | Chance | Functional |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Shatter | Weapon | Rubbish | 4 | Damages durability of certain pieces of the opponent's armor. Level one does only the helmet, level two the helmet and boots, level three the helmet, boots and leggings, and level four damages all pieces. | 2% | NOT IMPLEMENTED |
+| Shatter | Weapon | Rubbish | 4 | Damages durability of certain pieces of the opponent's armor. Level one does only the helmet, level two the helmet and boots, level three the helmet, boots and leggings, and level four damages all pieces. | 2% | UNTESTED |
 | Arise | Weapon | Rubbish | 2 | Knocks back all opponents within a certain area. By default the area is a 3x3, but level two does a 6x6. | 2% | NOT IMPLEMENTED |
 | Vile | Weapon | Rubbish | 3 | Gives your opponent nausea for an amount of seconds equal to three times the level of the enchant. | 3% | NOT IMPLEMENTED |
 | Husk | Weapon | Rubbish | 5 | Depletes your opponent's hunger points by the level of the enchant For instance, level five removes 2.5 hunger bars.| 3% | NOT IMPLEMENTED |
