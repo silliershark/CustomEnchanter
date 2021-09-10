@@ -37,7 +37,7 @@ class Shatter extends WeaponCE{
 
     public function trigger(){
         if(mt_rand(1, 100) <= 2){ // 2% chance
-            $armor = $victim->getArmorInventory();
+            $armor = $this->$victim->getArmorInventory();
             $all = [$armor->getHelmet(), $armor->getChestplate(), $armor->getLeggings(), $armor->getBoots()];
             switch($this->CELevel){
                 case 1:
