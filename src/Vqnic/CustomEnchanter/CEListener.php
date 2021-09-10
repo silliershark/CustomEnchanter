@@ -10,7 +10,7 @@ use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\inventory\Inventory;
 
 use Vqnic\CustomEnchanter\Main;
-use Vqnic\CustomEnchanter\CEs\Weapons\{Plague};
+use Vqnic\CustomEnchanter\CEs\Weapons\{Shatter, Arise, Vile, Husk, Viper, Plague};
 use Vqnic\CustomEnchanter\CEs\Armor\{Antidote};
 use Vqnic\CustomEnchanter\CEs\Tools\{Crystalline};
 
@@ -33,7 +33,7 @@ class CEListener implements Listener {
                     /*
                      *  WEAPON CES
                      */
-                    $swordCEs = ["Plague"]; //Will be adding more as listed in the GitHUb readme. :)
+                    $swordCEs = ["Shatter", "Arise", "Vile", "Husk", "Viper", "Plague"]; //Will be adding more as listed in the GitHUb readme. :)
                     foreach ($weapon->getLore() as $curr) {
                         $name = $this->cleanCEString($curr)[1];
                         if (in_array($name, $swordCEs)) {
