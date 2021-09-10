@@ -6,6 +6,7 @@ use pocketmine\event\block\BlockBreakEvent;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\event\Listener;
 use pocketmine\Player;
+use pocketmine\inventory\ArmorInventory;
 use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\inventory\Inventory;
 
@@ -43,7 +44,7 @@ class CEListener implements Listener {
                         }
                     }
                 }
-                $inventory = $hurt->getInventory();
+                $inventory = $hurt->getArmorInventory();
                 $slots = [$inventory->getHelmet(), $inventory->getChestplate(), $inventory->getLeggings(), $inventory->getBoots()];
                 $armorCEs = ["Antidote"]; //Will be adding more as listed in the GitHUb readme. :)
                 foreach ($slots as $slot) {
