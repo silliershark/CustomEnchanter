@@ -77,13 +77,13 @@ class CEListener implements Listener {
     }
 
     public function cleanCEString($string) : array {
-        if (str_contains($string, "V")) {
+        if (strpos($string, "V") !== false) {
             $level = 5;
-        }elseif (str_contains($string, "IV")) {
+        }elseif (strpos($string, "IV") !== false) {
             $level = 4;
-        }elseif (str_contains($string, "III")) {
+        }elseif (strpos($string, "III") !== false) {
             $level = 3;
-        }elseif (str_contains($string, "II")) {
+        }elseif (strpos($string, "II") !== false) {
             $level = 2;
         }else {
             $level = 1;
