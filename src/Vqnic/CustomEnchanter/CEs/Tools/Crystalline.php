@@ -6,7 +6,7 @@ namespace Vqnic\CustomEnchanter\CEs\Tools;
 use Vqnic\CustomEnchanter\CEs\Tools\ToolCE;
 use Vqnic\CustomEnchanter\Main;
 use pocketmine\Player;
-use pocketmine\pocketmine\Block;
+use pocketmine\block\Block;
 
 class Crystalline extends ToolCE{
 
