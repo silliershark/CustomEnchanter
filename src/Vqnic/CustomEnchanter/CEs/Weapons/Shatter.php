@@ -3,8 +3,11 @@
 namespace Vqnic\CustomEnchanter\CEs\Weapons;
 
 use pocketmine\entity\Entity;
+use pocketmine\item\Item;
 use pocketmine\nbt\tag\ByteArrayTag;
 use pocketmine\nbt\tag\CompoundTag;
+use pocketmine\item\Armor;
+use pocketmine\inventory\ArmorInventory;
 use pocketmine\nbt\tag\StringTag;
 use pocketmine\Player;
 
