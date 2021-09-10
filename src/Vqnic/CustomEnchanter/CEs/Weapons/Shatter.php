@@ -47,7 +47,7 @@ class Shatter extends WeaponCE{
                     break;
 
                 case 2:
-                    for($i = 0; i < 2; i++){
+                    for($i = 0; $i < 2; $i++){
                         if($all[$i] instanceof Armor){
                             $all[$i]->applyDamage(4);
                         }
@@ -55,7 +55,7 @@ class Shatter extends WeaponCE{
                     break;
 
                 case 3:
-                    for($i = 0; i < 2; i++){
+                    for($i = 0; $i < 3; $i++){
                         if($all[$i] instanceof Armor){
                             $all[$i]->applyDamage(4);
                         }
@@ -63,7 +63,7 @@ class Shatter extends WeaponCE{
                     break;
 
                 case 4:
-                    for($i = 0; i < 2; i++){
+                    for($i = 0; $i < 4; $i++){
                         if($all[$i] instanceof Armor){
                             $all[$i]->applyDamage(4);
                         }
